@@ -1,11 +1,11 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
+    "name": "laracon22/core-component-repository",
     "description": "My awesome package",
     "keywords": [
         "mehedi-iitdu",
         "core-component-repository"
     ],
-    "homepage": "https://github.com/mehedi-iitdu/core-component-repository",
+    "homepage": "https://github.com/laracon22/core-component-repository",
     "license": "MIT",
     "type": "library",
     "authors": [
